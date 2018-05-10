@@ -1,3 +1,7 @@
 this is first line i am adding in test file, this line is default line
 
+<<<<<<< HEAD
 i am adding this line from 2/silfrasense directory.
+=======
+i am adding this line from the silfrasense directory
+>>>>>>> dee142d78cf662e7f8de19e2e55618169587bfe3
